@@ -1,0 +1,14 @@
+{
+  "name": "logs_sorter",
+  "version": "1.0.0",
+  "description": "sorting logs from different files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hugo.montero",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0"
+  }
+}
